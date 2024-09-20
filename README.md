@@ -1,4 +1,7 @@
-### Hai there! 👋
+### Hello there! 👋
+
+- 🌱 I’m currently learning App Development
+- 😄 Pronouns: she/her
 
 <!--
 **AlesandroQuiros/AlesandroQuiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

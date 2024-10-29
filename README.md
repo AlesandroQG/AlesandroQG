@@ -1,5 +1,6 @@
 ### Hello there! 👋
 
+- 🧑‍💻 Certified Web Developer
 - 🌱 I’m currently learning App Development
 - 😄 Pronouns: she/her
 
